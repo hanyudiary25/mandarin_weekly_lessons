@@ -6,4 +6,5 @@ This repo contains weekly mandarin lesson notes.
 - [Week 2 Notes](study_notes/week_2.md)
 - [Week 3 Notes](study_notes/week_3.md)
 - [Week 4 Notes](study_notes/week_4.md)
+- [Week 5 Notes](study_notes/week_5.md)
 
