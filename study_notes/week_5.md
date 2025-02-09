@@ -1,6 +1,6 @@
 # Week 5 Chinese Vocabulary and Grammar
 
-This week's learning theme is "Food".
+This week's learning theme is "Directions".
 
 ## Vocabulary List
 
